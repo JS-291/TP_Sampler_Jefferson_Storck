@@ -4,7 +4,7 @@
 - RestServer is the folder of the REST server. 
 - It's a modified version of the server from seance 2.
 - The express node.js package must be installed "npm i --save express"
-- the cors node.jas package must be installed "npm i --save cors"
+- the cors node.js package must be installed "npm i --save cors"
 - To run use "npm run start".
 
 ## Main
